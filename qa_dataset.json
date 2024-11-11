@@ -56,151 +56,187 @@
     },
     {
       "instruction": "What is the name of the tree that has grown nearly 1 foot in 3 years?",
-      
+      "input": "",
       "output": "The tree is called a black tree and it has grown nearly 1 foot in 3 years."
     },
     {
       "instruction": "What is the name of the tree that is helping the black tree grow and what is the reason for its growth?",
+      "input":"",
       "output": "The banyan tree is helping the black tree grow. The banyan tree provides nutrients and strength to the black tree, allowing it to grow nearly a foot in three years."
     },
     {
       "instruction": "What is Vishwanath Nagaranda's profession and how many acres of land does he manage?",
+      "input":"",
       "output": "Vishwanath Nagaranda is an agri diploma holder and a full-time farmer who manages 11 acres of land."
     },
     {
       "instruction": "What are some of the different types of trees that Vishwanath Nagaranda grows on his land?",
+      "input":"",
       "output": "Vishwanath Nagaranda grows a variety of trees including Neem, Neerala, Peru, Anjur, Tengu, Hebbem, Shrikhanda, Teak, and Sandalwood."
     },
     {
       "instruction": "What is the name of the plant that is described as the 'mother of the bird' and what is its purpose?",
+      "input":"",
       "output": "The plant called 'Hebbem' is referred to as the 'mother of the bird' and it serves as a nest for the black tree."
     },
     {
       "instruction": "What is the main reason for the difference in leaf density between the two sides of the black tree?",
+      "input":"",
       "output": "The difference in leaf density is due to the amount of light exposure. The side with more leaves receives more light, resulting in better photosynthesis activity and healthier growth."
     },
     {
       "instruction": "What is the name of the tree that has been planted in the field and what is the issue with its growth?",
+      "input":"",
       "output": "The tree planted in the field is called Malabar. The issue with its growth is that the smell of the tree is weak, indicating a lack of nutrients or a possible problem with the soil."
     },
     {
       "instruction": "What are the two main reasons why the black tree is growing so well next to the banyan tree?",
+      "input":"",
       "output": "The black tree's healthy growth is attributed to two main reasons: (1) the banyan tree provides nutrients and strength, and (2) the banyan tree acts as a host, providing shade and protection."
     },
     {
       "instruction": "What is the advice given to farmers regarding banyan trees and their impact on the growth of other trees?",
+      "input":"",
       "output": "The advice given to farmers is to avoid cutting down too many banyan trees.  While it's not necessary to cut down thousands of banyans, maintaining a few banyans can provide valuable nutrients and support for other trees."
     },
     {
       "instruction": "What is the name of the micro-nutrient that is used for planting and for how long is it given?",
+      "input":"",
       "output": "The micro-nutrient called DAPS is given for a year, specifically during planting time."
     },
     {
       "instruction": "What was the main problem that the three kingdoms faced in the story of Raktachandana and Kempu?",
+      "input":"",
       "output": "The main problem was the theft of Raktachandana and Kempu, which were worth crores of rupees, creating a conflict between the kingdoms."
     },
     {
       "instruction": "What was the cover story given for the theft of Raktachandana and Kempu?",
+      "input":"",
       "output": "The cover story involved blaming the theft on Veerappan's men and the smugglers from Tamil Nadu, who were said to have been bitten by Raktachandana."
     },
     {
       "instruction": "What was the reason behind the Andhra government creating a special security force to deal with the bloodshed in the Aranya region?",
+      "input":"",
       "output": "The Andhra government created a special security force to control the violence and bloodshed caused by the smuggling of Raktachandana in the Aranya region."
     },
     {
       "instruction": "Who was the 9th general of Kattigaanahalli and what was his role in the smuggling operation?",
+      "input":"",
       "output": "The 9th general of Kattigaanahalli was a key player in the smuggling operation. He was responsible for digging up and trading the stolen Raktachandana, using various locations like village houses and Nelagiri Tops."
     },
     {
       "instruction": "How did the narrator and their group try to approach the people in Kattigaanahalli to gather information about the Raktachandana smuggling?",
+      "input":"",
       "output": "They pretended to be interested in buying the Nelagiri tree, hoping to gain the trust of the locals and learn about the smuggling operations."
     },
     {
       "instruction": "What was the outcome of the encounter between the narrator and the suspected smuggler in Kattigaanahalli?",
+      "input":"",
       "output": "The encounter with the suspected smuggler turned into a terrifying experience. The smuggler was found dead in a water tank, and the narrator's group was caught by a group of 20 men, later identified as Andhra police officers."
     },
     {
       "instruction": "What happened to the narrator and their group after being apprehended by the Andhra police officers?",
+      "input":"",
       "output": "The narrator and their group were apprehended by the Andhra police officers. They were forced to move around, tried to escape but were caught, and finally escaped by running towards the Benglur region."
     },
     {
       "instruction": "What is the effect of adding fungicide and pesticide to the roots of the Jutal plant?",
+      "input":"",
       "output": "Adding fungicide and pesticide to the roots of the Jutal plant will shock the roots, creating an air gap and preventing termites or fungus from damaging the plant."
     },
     {
       "instruction": "What is the primary host's role in the growth of the Jutal plant, and how long does this support last?",
+      "input":"",
       "output": "The primary host supports the Jutal plant for two years, after which it will die. The Jutal plant will then grow independently."
     },
     {
       "instruction": "Why should fungicide not be added to the primary host of the Jutal plant?",
+      "input":"",
       "output": "Adding fungicide to the primary host will prevent the Jutal plant from growing properly."
     },
     {
       "instruction": "What are the three trees that grow rapidly after the primary host dies, and how do they connect to surrounding trees?",
+      "input":"",
       "output": "The three trees are Casuarina, Surveyor, and Nukya. They grow very fast because their roots connect to surrounding trees, creating a network of interconnected roots."
     },
     {
       "instruction": "How can the growth of the Jutal tree be controlled?",
+      "input":"",
       "output": "To control the growth of the Jutal tree, you must prune it regularly. This will limit its growth and prevent it from spreading too quickly."
     },
     {
       "instruction": "What are the advantages of growing different species of trees together?",
+      "input":"",
       "output": "Growing different species of trees together allows for a variety of nutrients and advantages, making the overall ecosystem more diverse and sustainable."
     },
     {
       "instruction": "What types of crops can be grown in the space between Jutal trees?",
+      "input":"",
       "output": "You can grow papaya, other fruits, or locally grown crops in the 5-meter space between Jutal trees."
     },
     {
       "instruction": "What is the problem with growing sandalwood in cup soil, and how is it addressed?",
+      "input":"",
       "output": "The problem with growing sandalwood in cup soil is the presence of clay, which cracks when dry and weakens the tree. To address this, plowing discs are used to move the cracks and irrigation is provided."
     },
     {
       "instruction": "Why is it recommended to plant nimband in the same area as a Jutal tree?",
+      "input":"",
       "output": "Planting nimband near a Jutal tree provides a source of nutrients and safeguards the Jutal tree's root system. This ensures the Jutal tree's survival and growth."
     },
     {
       "instruction": "Why is it important to avoid planting other plants near a Jutal tree, according to the speaker?",
+      "input":"",
       "output": "Other plants can compete with the Jutal tree for nutrients and resources, potentially hindering its growth and health. This is why it is best to grow sandless plants."
     },
     {
       "instruction": "What type of plant is recommended as a permanent host for Jutal trees, and why?",
+      "input":"",
       "output": "A mango tree, a big tree, or any other high-yielding dwarf variety that remains healthy for 5-10 years is recommended as a permanent host for Jutal trees. These plants provide a sustainable and long-lasting support system for Jutal trees."
     },
     {
       "instruction": "Why does growing timber maran near a Jutal tree present a competition, and what is the potential impact on the Jutal tree's yield?",
+      "input":"",
       "output": "Growing timber maran near a Jutal tree creates competition for resources, potentially leading to a lower yield of wood for the Jutal tree. This competition arises because both trees require similar resources and have the same primary product – wood."
     },
     {
       "instruction": "Why is it important to take precautions when moving a Jutal tree, and what can be done to protect it?",
+      "input":"",
       "output": "Moving a Jutal tree can cause significant damage, especially to its bark. The bark is a protective layer that shields the tree from harm, and any damage can lead to infection and disease. It is crucial to handle the tree carefully, avoiding any contact with the bark, and preventing any tractor movements near its branches."
     },
     {
       "instruction": "What is the speaker's experience with a NAMM plantation, and what lesson did they learn from it?",
+      "input":"",
       "output": "The speaker's experience with a NAMM plantation was negative. The trees were not properly cared for, resulting in poor growth and low yields. This experience highlights the importance of understanding the tree's needs and providing proper care throughout its lifespan."
     },
     {
       "instruction": "What advice does the speaker offer regarding taking care of Jutal trees, particularly after transplantation?",
+      "input":"",
       "output": "After transplanting a Jutal tree, it is crucial to monitor its condition in the previous year and provide ongoing care. This includes understanding the tree's needs and ensuring it has the necessary resources for healthy growth."
     },
     {
       "instruction": "What is the name of the tree that the farmers in Avrat Taluk are struggling to grow?",
+      "input":"",
       "output": "The tree is called Shree Gandhada."
     },
     {
       "instruction": "How long have the Shree Gandhada trees in Avrat Taluk been growing for?",
+      "input":"",
       "output": "The Shree Gandhada trees in Avrat Taluk have been growing for approximately 10 to 15 years."
     },
     {
       "instruction": "What is the current challenge faced by the farmers in Avrat Taluk regarding the Shree Gandhada trees?",
+      "input":"",
       "output": "The farmers are facing a challenge with the Shree Gandhada trees because they do not have the knowledge or resources for marketing and selling the trees once they mature."
     },
     {
       "instruction": "What is the significance of Shree Gandhada trees in Karnataka?",
+      "input":"",
       "output": "Shree Gandhada trees are considered the largest trees in Karnataka, and the state is known for its abundance of these trees."
     },
     {
       "instruction": "What is the concern of the farmers regarding the Shree Gandhada trees in Avrat Taluk?",
+      "input":"",
       "output": "The farmers are concerned that the Shree Gandhada trees in Avrat Taluk have grown on land that is not suitable for their growth, making the trees worthless, and they are protesting about the lack of support from the police in addressing this issue."
     },
     {
@@ -209,586 +245,732 @@
     },
     {
       "instruction": "What happened to the two people who disappeared from the village?",
+      "input":"",
       "output": "Two innocent people disappeared from the village, and the narrator believes they are in trouble."
     },
     {
       "instruction": "Why did the narrator and their group initially decide not to tell the story about the missing people?",
+      "input":"",
       "output": "The narrator and their group were accused of being a big shot and initially decided to keep the story about the missing people quiet, but they changed their minds when they encountered further problems."
     },
     {
       "instruction": "What did the narrator and their group find when they followed the bikes?",
+      "input":"",
       "output": "The narrator and their group followed the bikes and found them parked at the gate of a building, where they encountered a policeman who warned them not to go near that village."
     },
     {
       "instruction": "Why was the narrator told not to go near the village?",
+      "input":"",
       "output": "The narrator was told not to go near the village because it was considered dangerous, with the policeman stating it was a 'little dangerous' and 'very dangerous' and describing the situation as 'badly hurt inside'."
     },
     {
       "instruction": "What happened to the narrator and their group when they were following the bikes?",
+      "input":"",
       "output": "The narrator and their group were told to stop and have tea, and they were advised to look at the other side of the road, suggesting they were being watched or followed."
     },
     {
       "instruction": "What is the village's connection to the Delhi road, according to the narrator?",
+      "input":"",
       "output": "The village is connected to the Delhi road, and if the village were to be connected to the road, it could become a hub for people and goods."
     },
     {
       "instruction": "What is the narrator's concern about the village and its connection to the Delhi road?",
+      "input":"",
       "output": "The narrator is concerned that if the village becomes connected to the Delhi road, it could lead to a situation where the village loses its identity and becomes like other villages along the road."
     },
     {
       "instruction": "What is the meaning of the phrase \"this village is like a village\" according to the narrator?",
+      "input":"",
       "output": "The narrator believes that this village is different from other villages, and that it has a unique character and identity that can be understood only by those who are familiar with the village."
     },
     {
       "instruction": "What does the narrator imply about the police's involvement in the village?",
+      "input":"",
       "output": "The narrator believes that the police are involved in corrupt practices and that they are arresting people without proper justification."
     },
     {
       "instruction": "Why does the narrator believe the police are saying that they are trying to harm them?",
+      "input":"",
       "output": "The narrator believes the police are claiming they are being harmed to justify their actions and to cover up their involvement in the village."
     },
     {
       "instruction": "What is the narrator's accusation against the politicians in the village?",
+      "input":"",
       "output": "The narrator accuses the politicians of being criminals and of being involved in illegal activities, such as smuggling and fraud."
     },
     {
       "instruction": "Why does the narrator believe the police are silent about the crimes happening in the village?",
+      "input":"",
       "output": "The narrator believes the police are silent about the crimes happening in the village because they are in collusion with the politicians and criminals."
     },
     {
       "instruction": "What does the narrator suggest about the police's involvement in the missing people's disappearance?",
+      "input":"",
       "output": "The narrator implies that the police might be involved in the missing people's disappearance, suggesting that they might have been killed or detained by the police."
     },
     {
       "instruction": "How does the narrator describe the politicians' involvement in the situation?",
+      "input":"",
       "output": "The narrator describes the politicians as being involved in dirty politics and accuses them of using their power to protect criminals and suppress the truth."
     },
     {
       "instruction": "What is the narrator's call to action at the end of the story?",
+      "input":"",
       "output": "The narrator calls for an end to the corruption and injustice happening in the village, urging for the release of the police and the exposure of the truth about the village's problems."
     },
     {
       "instruction": "What is the main message the speaker is trying to convey about the importance of gold in relation to farming?",
+      "input":"",
       "output": "The speaker believes that farmers should receive a significant reward for their hard work, suggesting that a kilogram of gold should be given to each farmer."
     },
     {
       "instruction": "What is the speaker's perspective on the potential for economic growth through farming, particularly with oilseeds?",
+      "input":"",
       "output": "The speaker is optimistic about the potential for economic growth in agriculture, emphasizing that oilseed cultivation can yield significant profits, potentially reaching 3 crores over 15-16 years."
     },
     {
       "instruction": "What specific example does the speaker use to illustrate the idea of a 'message' that farmers need to hear?",
+      "input":"",
       "output": "The speaker uses the example of a cow becoming worth 1 kg of gold, suggesting that if farmers achieve such success, they will send a powerful message to others about the potential of agriculture."
     },
     {
       "instruction": "What is the speaker's view on the current state of farming and the potential for improvement?",
+      "input":"",
       "output": "The speaker believes that current farming practices are not profitable and need to change. They advocate for a shift toward more lucrative crops and techniques to ensure farmers can achieve financial success."
     },
     {
       "instruction": "What is the speaker's perspective on the relationship between farming and social responsibility?",
+      "input":"",
       "output": "The speaker emphasizes that farmers have a crucial role in social responsibility, arguing that they should not only strive for their own economic well-being but also contribute to the betterment of society."
     },
     {
       "instruction": "What is the speaker's personal experience with farming and how has it influenced their views?",
+      "input":"",
       "output": "The speaker shares a personal anecdote about observing an ant's growth and how it inspired them to work hard and achieve success, highlighting the importance of dedication and perseverance in agriculture."
     },
     {
       "instruction": "What is the speaker's suggestion for improving the lives of farmers and ensuring a better future for them and their families?",
+      "input":"",
       "output": "The speaker emphasizes the need for farmers to diversify their income sources, suggesting they explore new opportunities beyond traditional farming, such as seed production, floriculture, and oilseed cultivation, to achieve greater financial security."
     },
     {
       "instruction": "What specific example does the speaker use to demonstrate the potential for farmers to achieve financial independence through diversification?",
+      "input":"",
       "output": "The speaker uses the example of a 4-acre land owner who can utilize 1 acre for traditional farming and 3 acres for seed production, oilseed cultivation, or other profitable ventures."
     },
     {
       "instruction": "What is the speaker's perspective on the role of education and support in fostering a successful agricultural future?",
+      "input":"",
       "output": "The speaker strongly believes that education and support are crucial for farmers to achieve success. They advocate for providing farmers with knowledge and resources to improve their farming practices and secure their financial well-being."
     },
     {
       "instruction": "What is the speaker's opinion on the importance of community involvement and support for farmers?",
+      "input":"",
       "output": "The speaker highlights the value of community engagement, advocating for groups that provide farmers with information, support, and a platform for sharing experiences and best practices."
     },
     {
       "instruction": "What does the speaker consider to be the ultimate goal for farmers and the message they want to convey?",
+      "input":"",
       "output": "The speaker emphasizes the importance of financial independence, self-respect, and a quality life for farmers, arguing that they deserve recognition and support for their crucial role in society."
     },
     {
       "instruction": "What is the commercial name for the type of sandalwood that is native to India?",
+      "input":"",
       "output": "The commercial name for sandalwood native to India is \"sandalwood.\" However, its scientific name is \"santalum album.\""
     },
     {
       "instruction": "What are the three most important physiological factors for growing sandalwood in India, according to the speaker?",
+      "input":"",
       "output": "The three most important factors are soil, water, and climate."
     },
     {
       "instruction": "What is the name of the semi-root parasite that grows on sandalwood trees, and what is its nature?",
+      "input":"",
       "output": "The semi-root parasite is called \"Paravalambi Sassi\" and it is parasitic in nature."
     },
     {
       "instruction": "What is the name of the largest sandalwood cluster in India, and where is it located?",
+      "input":"",
       "output": "The largest sandalwood cluster in India is called \"Koppalarajishtik\" and it is located in Koppala district, Karnataka."
     },
     {
       "instruction": "What is the current rate of one kilogram of sandalwood in Karnataka, according to the speaker?",
+      "input":"",
       "output": "The current rate for one kilogram of sandalwood in Karnataka is 5 lakh rupees."
     },
     {
       "instruction": "What is the speaker's definition of \"Sreekanth Adharitha Kurshiyaranya\"?",
+      "input":"",
       "output": "\"Sreekanth Adharitha Kurshiyaranya\" refers to a sandalwood-centric agroforestry model that focuses on economic survival, health, self-respect, and social responsibility."
     },
     {
       "instruction": "According to the speaker, what is the current state of agriculture and how does it relate to wealth and social responsibility?",
+      "input":"",
       "output": "The speaker believes agriculture is currently viewed as a crime against wealth and a property of the poor, but he advocates for a shift to a model that incorporates social responsibility and economic survival, seeing it as a solution to poverty."
     },
     {
       "instruction": "What is the speaker's argument for why the cultivation of sandalwood is beneficial for the environment and why it can combat the effects of pollution?",
+      "input":"",
       "output": "The speaker argues that sandalwood cultivation is beneficial because it helps create a natural environment, providing shelter for animals and birds, promoting biodiversity, and offering a solution to the effects of pollution and environmental degradation."       
     },
     {
       "instruction": "What is the speaker's solution to the problem of environmental damage and how does it relate to the cultivation of sandalwood?",
+      "input":"",
       "output": "The speaker believes that the cultivation of sandalwood can be a solution to environmental damage by creating a fragrant forest that can be used to create a natural air freshener and combat pollution."
     },
     {
       "instruction": "What is the speaker's advice for success in the field of agriculture and what traits does he emphasize?",
+      "input":"",
       "output": "The speaker emphasizes the importance of strong belief, self-confidence, hard work, and consistent effort in achieving success in the field of agriculture."
     },
     {
       "instruction": "What is the speaker's explanation for the high price of sandalwood and how does it relate to the global market?",
+      "input":"",
       "output": "The speaker explains that the high price of sandalwood is due to its global demand and limited supply, suggesting that it's a valuable commodity with potential for economic growth."
     },
     {
       "instruction": "What is the speaker's concern about the security of sandalwood and what measures does he propose to protect it?",
+      "input":"",
       "output": "The speaker is concerned about the security of sandalwood and proposes using technology like cameras and sensors, along with fencing and natural defenses like thorny bamboo, to protect it from theft."
     },
     {
       "instruction": "What are some of the medicinal benefits of Garcinia Indica, according to the speaker?",
+      "input":"",
       "output": "According to the speaker, Garcinia Indica is a natural herb that is beneficial for the liver, purifying it and promoting overall health."
     },
     {
       "instruction": "Where does the speaker claim that cardamom is grown?",
+      "input":"",
       "output": "The speaker claims that cardamom is grown in Koppala district and in Malnadu."
     },
     {
       "instruction": "What are the specific needs of cardamom for its growth, according to the speaker?",
+      "input":"",
       "output": "Cardamom requires natural shade, humidity, and ample water for optimal growth."
     },
     {
       "instruction": "What is the speaker's opinion on the growth of miracle fruits in Koppala district?",
+      "input":"",
       "output": "The speaker believes that the growth of miracle fruits in Koppala district is a testament to the region's favorable climate and soil conditions, demonstrating the potential for diverse agricultural practices."
     },
     {
       "instruction": "What is the name of the forest nursery located in Karnataka?",
+      "input":"",
       "output": "The nursery is located in Kolara district, Srinivaspura town, and is 7 km from Srinivaspura town."
     },
     {
       "instruction": "What makes this nursery unique compared to other nurseries?",
+      "input":"",
       "output": "This nursery specializes in growing thick trees, unlike other nurseries that may offer a wider variety."
     },
     {
       "instruction": "Who is the owner of the forest nursery in Karnataka?",
+      "input":"",
       "output": "Ashok Reddy is the owner of the forest nursery."
     },
     {
       "instruction": "When did Ashok Reddy start the forest nursery in Karnataka?",
+      "input":"",
       "output": "The nursery was started in 2011."
     },
     {
       "instruction": "What type of seeds are grown in the Karnataka forest nursery?",
+      "input":"",
       "output": "The nursery provides 800 to 900 kg of beja seeds."
     },
     {
       "instruction": "Describe the process of sowing the beja seeds in the Karnataka forest nursery.",
+      "input":"",
       "output": "The seeds are soaked in water for 10 to 15 hours, then left for 10 to 20 days. They are then sifted and a mixture of zebrali custard, alcohol, and water is added. After 5 to 10 days, the seeds are planted in a bed and left to rest for 3 months."
     },
     {
       "instruction": "What is the estimated number of trees that are grown in this nursery annually?",
+      "input":"",
       "output": "The nursery produces approximately 10 lakh trees every year."
     },
     {
       "instruction": "Where does the nursery sell its trees to, besides Karnataka?",
+      "input":"",
       "output": "The nursery provides thick trees to all the surrounding states."
     },
     {
       "instruction": "What scheme does the nursery use to provide trees to farmers?",
+      "input":"",
       "output": "The nursery uses a scheme called Christiana Process to provide trees to farmers for a fee of 3 rupees per acre for 3 years. They also have another scheme called RSPD."
     },
     {
       "instruction": "What is the current state of sandalwood production in India, according to Anantha Padmanabhan?",
+      "input":"",
       "output": "Sandalwood production in India has drastically declined. In 1975, India produced 4-5 thousand tons of sandalwood, but now it only produces around 250 tons annually."
     },
     {
       "instruction": "What is the main challenge facing the sandalwood industry in Karnataka, according to Anantha Padmanabhan?",
+      "input":"",
       "output": "The main challenge is the low production of sandalwood, which has led to a shortage in supply. This shortage is so severe that the Karnataka forest department cannot meet the demand for sandalwood oil."
     },
     {
       "instruction": "How does Anantha Padmanabhan suggest addressing the shortage of sandalwood in India?",
+      "input":"",
       "output": "He suggests encouraging private individuals to participate in sandalwood production. He believes that increased private participation could help meet the growing demand."
     },
     {
       "instruction": "What are the legal regulations surrounding private sandalwood production in Karnataka and Tamil Nadu?",
+      "input":"",
       "output": "In 2000, the forest departments of Karnataka and Tamil Nadu amended their regulations to allow private individuals to produce sandalwood. Private landowners can now grow and own sandalwood, but they must comply with regulations set by the forest department."     
     },
     {
       "instruction": "According to Anantha Padmanabhan, what is the common misconception about planting sandalwood seeds?",
+      "input":"",
       "output": "Many people believe that sandalwood seeds should only be taken from mature trees that have already flowered. However, Anantha Padmanabhan explains that this is a mistake, as seeds from younger trees can also be used for cultivation."
     },
     {
       "instruction": "What are the different types of sandalwood seeds, and how do they affect the fatty acid content of the resulting tree?",
+      "input":"",
       "output": "Sandalwood seeds are classified into three types: small, medium, and large. Larger seeds have a higher fatty acid content compared to smaller seeds. However, the size of the seed does not affect germination rates."
     },
     {
       "instruction": "How many sandalwood saplings can be grown from 1 kg of seeds, according to Anantha Padmanabhan?",
+      "input":"",
       "output": "Anantha Padmanabhan estimates that 1 kg of sandalwood seeds can produce 5,000 saplings. He also mentions that 50% of the seeds are expected to germinate successfully."
     },
     {
       "instruction": "What are the common diseases and pests that affect sandalwood saplings, and how are they controlled?",
+      "input":"",
       "output": "Sandalwood saplings are susceptible to diseases like fusarium, pithium, and nematode, as well as insect infestations. To combat these problems, Anantha Padmanabhan recommends spraying the saplings with insecticide once a day for two weeks."
     },
     {
       "instruction": "What is the age and girth of the sun root tree being examined?",
+      "input":"",
       "output": "The sun root tree is approximately 4 and a half years old and has a girth of around 40 cm."
     },
     {
       "instruction": "What tool is being used to collect a core sample from the sun root tree?",
+      "input":"",
       "output": "An increment borer is being used to collect a core sample from the sun root tree."
     },
     {
       "instruction": "What is the purpose of examining the core sample from the sun root tree?",
+      "input":"",
       "output": "The core sample will be examined to test for the presence of hot wood and sap wood in the tree."
     },
     {
       "instruction": "What is the indication of hot wood formation in the young sun root tree?",
+      "input":"",
       "output": "A color change in the sap wood is an indication of hot wood formation in the young tree."
     },
     {
       "instruction": "How will the hole made by the increment borer be closed, and what is the expected outcome?",
+      "input":"",
       "output": "A stick will be used to close the hole. It is expected to ignite within 3 months."
     },
     {
       "instruction": "How long does it take to grill the grill before it starts to become profitable?",
+      "input":"",
       "output": "It takes 7-8 years to grill the grill before it starts to become profitable."
     },
     {
       "instruction": "What is the cost of grilling the grill for 20-30 years?",
+      "input":"",
       "output": "Grilling the grill for 20-30 years will cost 8-10 lakhs."
     },
     {
       "instruction": "How much profit can be made after grilling the grill for 7-8 years?",
+      "input":"",
       "output": "After grilling the grill for 7-8 years, you can expect a profit of 10 lakhs."
     },
     {
       "instruction": "What is the cost of grilling the grill for the first 7-8 years?",
+      "input":"",
       "output": "Grilling the grill for the first 7-8 years will cost 3-4 lakhs."
     },
     {
       "instruction": "What is the main message about grilling the grill in every house?",
+      "input":"",
       "output": "The main message is that grilling the grill in every house will definitely get a good result, and no one should be afraid to do it."
     },
     {
       "instruction": "What is the age of the plant that was planted in August 2018?",
+      "input":"",
       "output": "The plant is 6-7 months old."
     },
     {
       "instruction": "How tall was the plant when it was first acquired?",
+      "input":"",
       "output": "The plant was half-foot tall when acquired."
     },
     {
       "instruction": "What is the current height of the plant that was initially half a foot tall?",
+      "input":"",
       "output": "The plant is now 2-3 feet tall."
     },
     {
       "instruction": "What is the name of the type of plant that the speaker has been discussing?",
+      "input":"",
       "output": "The type of plant is Blood Sandalwood."
     },
     {
       "instruction": "How many 'ganda' does the speaker estimate the current plant has?",
+      "input":"",
       "output": "The speaker estimates the plant has 600-700 'ganda'."
     },
     {
       "instruction": "How tall was the previous Blood Sandalwood plant before it was cut?",
+      "input":"",
       "output": "The previous plant was 30 feet tall before it was cut."
     },
     {
       "instruction": "What is the current height of the previously cut Blood Sandalwood plant?",
+      "input":"",
       "output": "The previously cut plant is now 10 feet tall."
     },
     {
       "instruction": "What is the estimated size of the Blood Sandalwood plant after it was cut?",
+      "input":"",
       "output": "After cutting, the plant is estimated to be 150-200 'ganda' in size."
     },
     {
       "instruction": "How long do the master plants of Blood Sandalwood typically last?",
+      "input":"",
       "output": "The master plants of Blood Sandalwood typically last eight years."
     },
     {
       "instruction": "What type of soil is used for the Blood Sandalwood plants?",
+      "input":"",
       "output": "The plants are grown in a mixture of grass and buradan soil."
     },
     {
       "instruction": "How deep is the pit that was dug in the middle of the area where the Blood Sandalwood plants are grown?",
+      "input":"",
       "output": "The pit in the middle is 5-6 feet deep."
     },
     {
       "instruction": "What is the purpose of digging the pit in the middle of the area where the Blood Sandalwood plants are grown?",
+      "input":"",
       "output": "The pit is dug for the rainy season and will be used for at least 2-3 years."
     },
     {
       "instruction": "What is the scientific name of the plant being discussed, and where is it found?",
+      "input":"",
       "output": "The plant being discussed is called Sri Ganda, which is found in Karnataka, India."
     },
     {
       "instruction": "What is the religious significance of Sri Ganda, and why is it considered valuable in rituals?",
+      "input":"",
       "output": "Sri Ganda holds religious importance in rituals because it has a pleasant scent from its fruits, making it a symbol of purity and fragrance."
     },
     {
       "instruction": "What is a key characteristic of Sri Ganda that makes it a powerful medicinal substance?",
+      "input":"",
       "output": "Sri Ganda is a powerful substance because it is believed to strengthen and invigorate the body."
     },
     {
       "instruction": "Describe the traditional method of preparing Sri Ganda sugar for medicinal use.",
+      "input":"",
       "output": "Sri Ganda sugar is prepared by adding one spoon of Sri Ganda powder to two cups of water, letting it soak, and reducing the mixture to half its original volume. This sugar is then taken in the morning and evening."
     },
     {
       "instruction": "What are the benefits of using Sri Ganda for skincare, according to the text?",
+      "input":"",
       "output": "Applying Sri Ganda to the skin is believed to provide a radiant glow, eliminate dark circles, and treat skin diseases."
     },
     {
       "instruction": "How is Sri Ganda oil traditionally used for skincare, and what are its purported benefits?",
+      "input":"",
       "output": "Sri Ganda oil is used for skincare by applying it directly to the skin. It is believed to eliminate skin diseases and enhance skin health."
     },
     {
       "instruction": "What is the author's call to action regarding Sri Ganda?",
+      "input":"",
       "output": "The author encourages viewers to protect and cultivate Sri Ganda, sharing its benefits with others."
     },
     {
       "instruction": "Who is Aata, and what is her connection to Sri Gandhada?",
+      "input":"",
       "output": "Aata is a woman who has built a life in agriculture and has grown up and succeeded in Sri Gandhada, making her a well-known figure both in India and abroad."
     },
     {
       "instruction": "What is the name of the tree in Sri Gandhada, and why is it famous?",
+      "input":"",
       "output": "The tree in Sri Gandhada is called Vishu Kumar, and it is famous for its beauty, especially in the Chikkamanguru district."
     },
     {
       "instruction": "How did Vishu Kumar become famous beyond Sri Gandhada?",
+      "input":"",
       "output": "TV9 published articles about Vishu Kumar's beauty, which drew attention from many people who came to see the tree. This fame spread internationally, particularly in Africa."
     },
     {
       "instruction": "What is the significance of the 'Gandhada Gudi' program?",
+      "input":"",
       "output": "The 'Gandhada Gudi' program, which focuses on Sri Gandhada's cultivation, inspired many people in the state to learn about and grow Sri Gandhada."
     },
     {
       "instruction": "What opportunity did Aata receive as a result of the program's reach?",
+      "input":"",
       "output": "Aata received a job offer from Africa after they were inspired by the 'Gandhada Gudi' program and were impressed by the Sri Gandhada tree."
     },
     {
       "instruction": "How did Ismail M. Baraita from Malavi contribute to the spread of Sri Gandhada?",
+      "input":"",
       "output": "Ismail M. Baraita from Malavi learned about Sri Gandhada's beauty, brought it to his country, and even received support from the Malavi government."
     },
     {
       "instruction": "How did Vishu Kumar contribute to his community?",
+      "input":"",
       "output": "Vishu Kumar donated Rs. 1 lakh to his village, demonstrating his generosity and dedication to his community."
     },
     {
       "instruction": "What is the name of the land that is grown through mixed farming?",
+      "input":"",
       "output": "The name of the land is not explicitly mentioned in the paragraph."
     },
     {
       "instruction": "What is the monthly guarantee offered to farmers in this land?",
+      "input":"",
       "output": "The monthly guarantee for farmers in this land is between Rs. 50,000 and Rs. 40,000."
     },
     {
       "instruction": "How much has the land grown in the last two years?",
+      "input":"",
       "output": "The land has grown by about 10 to 16 feet in the last two years."
     },
     {
       "instruction": "What is the name given to the land by the landowners of Biharom?",
+      "input":"",
       "output": "The landowners of Biharom called the land 'artisan障 sa пам Now história Look ahead Inauguration of the 없이 pristine land'."
     },
     {
       "instruction": "What is the name of the chap who was sequestered by the project tied to the land?",
+      "input":"",
       "output": "The name of the chap who was sequestered by the project is not mentioned in the paragraph."
     },
     {
       "instruction": "What are some of the tasks that are to be avoided from the land, according to the state councopains?",
+      "input":"",
       "output": "According to the state councopains, tasks like insanity, anxiety andTestacrid are to be avoided from the land."
     },
     {
       "instruction": "What are some of the food products that are used at the dentist and shampoo Sumonan?",
+      "input":"",
       "output": "Some of the high-cost food products used at the dentist and shampoo Sumonan are buy and min."
     },
     {
       "instruction": "What is the name of the government-owned entity that has been working on the land this month?",
+      "input":"",
       "output": "The government-owned entity working on the land this month is Greater New York."
     },
     {
       "instruction": "What is the name of the forest creeper that was allegedly found on the land?",
+      "input":"",
       "output": "The name of the forest creeper found on the land is not mentioned in the paragraph."
     },
     {
       "instruction": "What is the name of the centre that has been identified in relation to the land?",
+      "input":"",
       "output": "The centre that has been identified is called Ohaldak Centre."
     },
     {
       "instruction": "What is the name of the commercial enam hydra worsh Neem andertra that is grown in the land?",
+      "input":"",
       "output": "The name of the commercial enam hydra worsh Neem andertra is not mentioned in the paragraph."
     },
     {
       "instruction": "What is the name of the Dayalow white mihra besayu that is grown in the land?",
+      "input":"",
       "output": "The name of the Dayalow white mihra besayu that is grown in the land is not mentioned in the paragraph."
     },
     {
       "instruction": "What is the name of the area where carve was limited in the time of the father?",
+      "input":"",
       "output": "The name of the area where carve was limited in the time of the father is not mentioned in the paragraph."
     },
     {
       "instruction": "What is the name of the person who is giving blessings from above for the beautifully grown Mishra Besayu?",
+      "input":"",
       "output": "The person giving blessings from above for the beautifully grown Mishra Besayu is Shrikong."
     },
     {
       "instruction": "What is the name of the person who played Shri Ghanda Gidagal in his next life?",
+      "input":"",
       "output": "The person who played Shri Ghanda Gidagal in his next life is not explicitly mentioned in the paragraph."
     },
     {
       "instruction": "How many Gidagal has the person mentioned played?",
+      "input":"",
       "output": "The person mentioned has played about 800 Gidagal."
     },
     {
       "instruction": "What is the estimated cost of one Gidagal within 10 years?",
+      "input":"",
       "output": "Within 10 years, one Gidagal will cost Rs. 10,000 to Rs. 15,000."
     },
     {
       "instruction": "What is the name of the technology used in the previous water supply system?",
+      "input":"",
       "output": "The technology used in the previous water supply system is ESREL technology."
     },
     {
       "instruction": "What is the name of the portal that is now clear for the 않는ation of the field?",
+      "input":"",
       "output": "The name of the portal that is now clear for the 않는ation of the field is the agarik Portal."
     },
     {
       "instruction": "What is the name of the area where approximately 800 Shri Ghanda Gidagal were born in nine years?",
+      "input":"",
       "output": "The area where approximately 800 Shri Ghanda Gidagal were born in nine years is the Afarfun area."
     },
     {
       "instruction": "What is the name of the department that is also offering contributions because the Afarfun are not budding?",
+      "input":"",
       "output": "The name of the department offering contributions because the Afarfun are not budding is the Afarfun department."
     },
     {
       "instruction": "What is the name of the person who was given 800 statues in the area?",
+      "input":"",
       "output": "The name of the person who was given 800 statues in the area is not mentioned in the paragraph."
     },
     {
       "instruction": "In the area, how many statues were built in the name of Jaffar Mia?",
+      "input":"",
       "output": "400 statues were built in the name of Jaffar Mia."
     },
     {
       "instruction": "What is the name of the statue that was made of rice and is considered the first one?",
+      "input":"",
       "output": "The first statue made of rice is Sri Ganda's statue, which is a Paravalambi statue."
     },
     {
       "instruction": "What is the name of the statue that was made of rice and is the statue of Raita Jaffar?",
+      "input":"",
       "output": "The statue of Raita Jaffar, also made of rice, is not named in the paragraph."
     },
     {
       "instruction": "What is the name of the person who showed how to make a million rupees out of a million rupees by using a scientific method of agriculture?",
+      "input":"",
       "output": "The person who showed how to make a million rupees out of a million rupees by using a scientific method of agriculture is Raita Jaffar Mia."
     },
     {
       "instruction": "What is the name of the farm and who owns it?",
+      "input":"",
       "output": "The farm is owned by Kavitha Mishra and is located in Kavitha taluk, Shirwarat taluk, Rayachur district."
     },
     {
       "instruction": "What is Kavitha Mishra's educational background?",
+      "input":"",
       "output": "Kavitha Mishra holds a diploma in Computer Science and a Master's degree in Sociology from Karnataka University, Dharwad."
     },
     {
       "instruction": "What is the main agricultural practice implemented on Kavitha Mishra's farm?",
+      "input":"",
       "output": "The primary agricultural practice on Kavitha Mishra's farm is agroforestry, which combines trees, shrubs, and crops on the same land."
     },
     {
       "instruction": "What are some of the crops grown on Kavitha Mishra's 8-acre farm?",
+      "input":"",
       "output": "The farm features various crops, including 2000 srikanth, 1000 maavu, 600 peerala, 600 sitapal, 100 bettudnellika, 300 neerlanda, 100 hunsiyan, 100 nimbe, 100 karibbeva, 100 nuggeka, 100 teng, and 800 saagwani gida."
     },
     {
       "instruction": "What is the main reason Kavitha Mishra chose to practice agroforestry?",
+      "input":"",
       "output": "Kavitha Mishra chose agroforestry because she wanted to diversify her crops, increase her income, and reduce the need for intensive agricultural practices that deplete the land."
     },
     {
       "instruction": "What is Kavitha Mishra's main concern regarding the current state of Indian agriculture?",
+      "input":"",
       "output": "Kavitha Mishra is concerned about the lack of long-term sustainability in traditional agricultural practices, highlighting the issues of soil depletion, declining income, and the need for a shift towards more sustainable and eco-friendly methods."
     },
     {
       "instruction": "What is the main reason why the Dhalambri tree is considered weak?",
+      "input":"",
       "output": "The Dhalambri tree is considered weak due to a lack of water."
     },
     {
       "instruction": "How long has the Dhalambri tree been weak for?",
+      "input":"",
       "output": "The Dhalambri tree has been weak for the past 7 years."
     },
     {
       "instruction": "What is the significance of the Dhalambri tree's root zone?",
+      "input":"",
       "output": "The Dhalambri tree has a deep root zone, which is a positive attribute."
     },
     {
       "instruction": "What is the characteristic of the Balamandi tree's roots?",
+      "input":"",
       "output": "The Balamandi tree's roots contain oil and are located 3 feet away from the stem."
     },
     {
       "instruction": "What is the percentage of oil content in the soil of Karnataka and Srikanth compared to other states?",
+      "input":"",
       "output": "In Karnataka and Srikanth, the soil contains 6% oil, while other states have only 1 to 2%."
     },
     {
       "instruction": "What is the recommended water management strategy for Srikanth trees?",
+      "input":"",
       "output": "Srikanth trees require water in the initial stages of growth, but after 7-8 years, the water should be completely removed."
     },
     {
       "instruction": "Why is it crucial to remove water from the soil after 7-8 years in the case of Srikanth trees?",
+      "input":"",
       "output": "Removing water after 7-8 years prevents the roots from becoming waterlogged and prevents the soil from becoming unsuitable for the trees."
     },
     {
       "instruction": "What is the recommended solution for managing excess water during rainy seasons?",
+      "input":"",
       "output": "Using a bed or a bucket to drain excess water during rainy seasons is recommended to prevent waterlogging."
     },
     {
       "instruction": "What is the purpose of digging deep into the soil to obtain water?",
+      "input":"",
       "output": "Digging deep into the soil to obtain water helps create mulch, which provides nutrients for the soil and improves its overall health."
     },
     {
       "instruction": "What are the three key elements that the speaker has brought to Bengaluru and Mysore?",
+      "input":"",
       "output": "The speaker has brought Jivamrit, Panchagavu, and Rootsi Gokulam, which are crucial elements for natural farming."
     },
     {
       "instruction": "What is the primary benefit of natural farming?",
+      "input":"",
       "output": "Natural farming requires less labor, oil, and water compared to conventional farming methods."
     },
     {
       "instruction": "What is the speaker's experience with natural farming over the past 35 years?",
+      "input":"",
       "output": "The speaker has been practicing natural farming for 35 years and has witnessed its effectiveness in producing healthy crops."
     },
     {
       "instruction": "What is the speaker's main argument regarding the importance of natural farming?",
+      "input":"",
       "output": "The speaker emphasizes that natural farming is a sustainable and efficient way to produce food while protecting the environment and ensuring long-term food security."
     },
     {
       "instruction": "What is the speaker's main concern about the current state of agriculture?",
+      "input":"",
       "output": "The speaker is concerned that the current agricultural practices are unsustainable and are depleting the land's resources, leading to a decline in soil fertility and crop yields."
     },
     {
       "instruction": "What is the speaker's call to action for farmers?",
+      "input":"",
       "output": "The speaker encourages farmers to adopt natural farming practices to protect the environment, enhance soil health, and ensure sustainable food production for future generations."
     },
     {
       "instruction": "What is the name of the tree in Kannada?",
+      "input":"",
       "output": "The tree is called Kavlaiannu in Kannada."
     },
     {
       "instruction": "What is the English name of the tree called Kavlaigada?",
+      "input":"",
       "output": "The English name for Kavlaigada is Koranda."
     },
     {
       "instruction": "What is the primary function of the Kavlaigada tree?",
+        "input":"",
       "output": "The Kavlaigada tree acts as a natural fence, protecting hills or gardens."
     },
     {
       "instruction": "How much does a kilogram of Kavlaigada fruit cost?",
+        "input":"",
       "output": "A kilogram of Kavlaigada fruit costs 70 rupees."
     },
     {
@@ -797,455 +979,568 @@
     },
     {
       "instruction": "What types of plants have been planted in this area?",
+        "input":"",
       "output": "The plants mentioned are chemical coconut and wheat."
     },
     {
       "instruction": "What is the purpose of the Kuskuba soil conditioner?",
+        "input":"",
       "output": "The Kuskuba soil conditioner is meant to improve the soil quality."
     },
     {
       "instruction": "Why is the house considered a waste?",
+        "input":"",
       "output": "The house is considered a waste because it has not been developed and needs more plants."
     },
     {
       "instruction": "Where has the chemical coconut been planted?",
+        "input":"",
       "output": "The chemical coconut has been planted in various locations, including 'here' and 'everywhere'."
     },
     {
       "instruction": "What is the reason for planting the chemical coconut?",
+        "input":"",
       "output": "The text doesn't explicitly state the reason for planting the chemical coconut. However, it mentions the need for fertilizer, suggesting it might be for improving soil health or crop yield."
     },
     {
       "instruction": "What is the status of the wheat plants?",
+        "input":"",
       "output": "The wheat plants are not being used and should be cut."
     },
     {
       "instruction": "What is the main purpose of growing seedlings in this food forest system?",
+        "input":"",
       "output": "The main purpose of growing seedlings in this food forest system is to provide nutrients to other plants. Seedlings are parasites and cannot generate their own nutrients, so they absorb nutrients from surrounding seeds and other plants. This allows the forest to thrive and provide a diverse range of crops and fruits."
     },
     {
       "instruction": "How does the spacing between plants in the food forest differ from traditional agricultural methods?",
+        "input":"",
       "output": "The spacing between plants in the food forest is much closer than in traditional agriculture. The plants are not far from each other and are not planted in between rows, as the roots are only half to three feet apart. This close proximity allows for efficient nutrient sharing and creates a more diverse ecosystem."
     },
     {
       "instruction": "What are the expected benefits of this food forest system after 18-20 years?",
+        "input":"",
       "output": "After 18-20 years, the food forest will become a permanent area with a diverse range of crops and a high yield. It will provide both agricultural crops and oilseeds, as well as a variety of fruits. The soil will also be enriched and healthy."
     },
     {
       "instruction": "What is the recommended size for a food forest and why?",
+        "input":"",
       "output": "The recommended size for a food forest is around 5-60 acres. This ensures that there is enough space for a diverse range of plants and that there is a sufficient host plant population to support the ecosystem.  A smaller area may not be able to sustain the forest effectively."
     },
     {
       "instruction": "Describe the variety of fruits found in the food forest.",
+        "input":"",
       "output": "The food forest contains a variety of fruits, including three types of red and golden fruits, and peanut butter. These fruits are ripe and represent a natural source of food for the ecosystem."
     },
     {
       "instruction": "How much tomato production is possible within the food forest?",
+        "input":"",
       "output": "The food forest can produce up to 10 tons of tomatoes. This is possible because of the rich environment and abundance of nutrients in the forest system."
     },
     {
       "instruction": "Is the Sita palm tree, mentioned in the text, a native species?",
+        "input":"",
       "output": "Yes, the Sita palm tree mentioned in the text is a native plant. It is not a hybrid and is considered a native species."
     },
     {
       "instruction": "What is the estimated annual income generated by the Sri Ganda Farming Course?",
+        "input":"",
       "output": "The Sri Ganda Farming Course earns an estimated 3 crores per year."
     },
     {
       "instruction": "How long has the Sri Ganda Farming Course been preserved?",
+        "input":"",
       "output": "The Sri Ganda Farming Course has been preserved for 30 years."
     },
     {
       "instruction": "What is the estimated income generated per acre by the Sri Ganda Farming Course?",
+        "input":"",
       "output": "The Sri Ganda Farming Course generates an estimated 3 crores per acre."
     },
     {
       "instruction": "What are the three key physiological factors that influence Sri Ganda farming?",
+        "input":"",
       "output": "The key physiological factors for Sri Ganda farming are soil, water, and climate."
     },
     {
       "instruction": "What is the purpose of the Sri Ganda Farming Course project?",
+        "input":"",
       "output": "The Sri Ganda Farming Course project aims to preserve the soil."
     },
     {
       "instruction": "What is the estimated cost per acre for preparing the land for Sri Ganda farming?",
+        "input":"",
       "output": "The Sri Ganda Farming Course spends an estimated 3,000 rupees per acre to prepare the land."
     },
     {
       "instruction": "What is the nature of the Sri Ganda plant's root system?",
+        "input":"",
       "output": "The Sri Ganda plant is a semi-root parasite."
     },
     {
       "instruction": "What is the projected growth period for Sri Ganda farming?",
+        "input":"",
       "output": "Sri Ganda farming is projected to generate 3 crores per acre over a period of 20 years."
     },
     {
       "instruction": "What is the name of the mobile application that can be used to access the Sri Ganda Farming Course?",
+        "input":"",
       "output": "The Financial Freedom application can be used to access the Sri Ganda Farming Course."
     },
     {
       "instruction": "What is the name of the nursery where sandalwood trees are taken for planting?",
+        "input":"",
       "output": "The nursery is located in Shivamagadha."
     },
     {
       "instruction": "How many acres of sandalwood plantations have been established in the mentioned area?",
+        "input":"",
       "output": "A total of 32 acres of sandalwood have been planted."
     },
     {
       "instruction": "What is the estimated time it takes for a sandalwood tree to mature and yield a profitable harvest?",
+        "input":"",
       "output": "It is estimated to take around 20 years for sandalwood trees to mature and be ready for harvesting."
     },
     {
       "instruction": "What was the legal change that made it possible for individuals to plant sandalwood?",
+        "input":"",
       "output": "In 2012, a forest amendment was passed, allowing anyone to plant sandalwood."
     },
     {
       "instruction": "What are the primary factors that influence the quality of sandalwood seedlings?",
+        "input":"",
       "output": "The quality of seedlings depends on the care they receive in the nursery. Plants kept in the nursery for longer periods tend to be healthier and have a higher growth potential."
     },
     {
       "instruction": "Describe the recommended planting distance for sandalwood trees?",
+        "input":"",
       "output": "The ideal planting distance is 12 by 12, allowing for optimal growth and spacing between trees."
     },
     {
       "instruction": "What are the different irrigation methods employed for sandalwood plantations?",
+        "input":"",
       "output": "The methods include drip irrigation and sprinkler irrigation, which help to provide consistent moisture and support healthy growth."
     },
     {
       "instruction": "Explain the recommended watering schedule for sandalwood plantations.",
+        "input":"",
       "output": "Water is provided twice a week to the plants, but after 18-20 years, watering is discontinued as it is believed to hinder growth."
     },
     {
       "instruction": "What is the estimated earning potential for farmers who grow Shree Gandha, according to the paragraph?",
+        "input":"",
       "output": "Farmers can potentially earn crores of rupees by growing Shree Gandha. The text suggests that a single Shree Gandha Gida can generate at least 1 lakh rupees, and 100 Gidhas could earn crores."
     },
     {
       "instruction": "What is the name of the program designed to teach farmers about Shree Gandha agriculture, and who is the guide for the program?",
+        "input":"",
       "output": "The program is called the \"Shree Gandha agriculture course\" and is created by the Freedom App research team. Ramesh Balootagi acts as the guide for this program."
     },
     {
       "instruction": "What are some of the key topics covered in the Shree Gandha agriculture course?",
+        "input":"",
       "output": "The course covers topics like land requirements, government proposals, obtaining permits, soil and air quality, land construction, water needs, workforce requirements, security measures, increasing value, exporting, market access, and profit generation."
     },
     {
       "instruction": "What is the benefit of completing the Shree Gandha agriculture course?",
+        "input":"",
       "output": "Upon completion, farmers will receive a certificate and gain access to the Freedom App marketplace where they can sell their Shree Gandha produce without paying any commission, potentially earning over 1 crore rupees."
     },
     {
       "instruction": "What is the significance of Shree Gandha in India, according to the paragraph?",
+        "input":"",
       "output": "Shree Gandha is considered a valuable resource in India, with its production reaching a market value of 2,09,000 crores in 2026. It is highly sought after in the cosmetic and perfume industries, and its demand remains strong at 6,000 to 7,000 tons."
     },
     {
       "instruction": "What is the name of the farm featured in the video and where is it located?",
+        "input":"",
       "output": "The farm featured in the video is called Sringada farm and it is located in Dharugru."
     },
     {
       "instruction": "What types of trees were planted alternately in the farm plot described in the video?",
+        "input":"",
       "output": "The trees planted alternately in the farm plot were G. vilas and Sriganda."
     },
     {
       "instruction": "How many Sriganda trees and G. vilas trees were planted in the 3-acre farm plot?",
+        "input":"",
       "output": "The farm plot contains 2000 Sriganda trees and 2000 G. vilas trees."
     },
     {
       "instruction": "What is the main reason for the alternate planting of G. vilas and Sriganda trees?",
+        "input":"",
       "output": "The alternate planting of G. vilas and Sriganda trees is because the farm plot was previously used for sugarcane cultivation and the G. vilas trees are the host for Sriganda trees."
     },
     {
       "instruction": "What is the significance of the Sriganda tree's flowering and maturity level?",
+      "input":"",
       "output": "The Sriganda tree has fast growth and high maturity levels, making it a good choice for a host tree."
     },
     {
       "instruction": "What is the main advantage of using fungicide on Sriganda trees?",
+        "input":"",
       "output": "The main advantage of using fungicide on Sriganda trees is to prevent fungal infections that can occur when the trees are in the garden or in water."
     },
     {
       "instruction": "What is the importance of the mother plant in achieving even growth of sandalwood trees?",
+        "input":"",
       "output": "The mother plant is very important for achieving even growth of sandalwood trees because it helps to ensure that the trees grow to a similar size."
     },
     {
       "instruction": "How much does the seed of a Sriganda tree cost, and what is the rationale behind its price?",
+        "input":"",
       "output": "The seed of a Sriganda tree costs around 2 to 3 rupees more than other seeds. This is because the seed comes from the farm and has the benefit of 15 to 8 years of knowledge and expertise."
     },
     {
       "instruction": "What is the estimated income generated from the coriander crop each year on the farm?",
+        "input":"",
       "output": "The estimated income generated from the coriander crop each year on the farm is 1 to 1.1 lakhs at one time, totaling 2 to 3 lakhs per year."
     },
     {
       "instruction": "What is the name of the farmer featured in the video, and what kind of plantation is he involved in?",
+        "input":"",
       "output": "The farmer featured in the video is named Channappa Kadamma and he is involved in a peru plantation."
     },
     {
       "instruction": "How long has the farmer been growing the peru variety of trees in his plantation?",
+        "input":"",
       "output": "The farmer has been growing the peru variety of trees in his plantation for one year, starting in August."
     },
     {
       "instruction": "What is the farmer's opinion about the growth rate of the peru trees compared to the trees in the Sringada farm?",
+        "input":"",
       "output": "The farmer believes that the peru trees in his plantation are growing slower than the peru trees in the Sringada farm."
     },
     {
       "instruction": "How many peru trees did the farmer plant in his plantation?",
+        "input":"",
       "output": "The farmer planted 15,000 peru trees in his plantation."
     },
     {
       "instruction": "What is the main reason for the delay in responding to phone calls, as explained by the video creators?",
+        "input":"",
       "output": "The video creators explained that they are unable to take phone calls because they are busy working with different farmers, editing the video, and managing the farm."
     },
     {
       "instruction": "What is the main purpose of the barbed wire and mesh fencing installed around the garden?",
+        "input":"",
       "output": "The barbed wire and mesh fencing installed around the garden are meant to protect the garden from outside interference and ensure its safety."
     },
     {
       "instruction": "What are the specific locations mentioned in the paragraph where Sri Gandha is found?",
+        "input":"",
       "output": "The paragraph mentions Sri Gandha being found in Sree Ganda, Bhenigada, Jaligada, and Malyananda."
     },
     {
       "instruction": "Why does the author believe Sri Gandha thrives better in their region compared to Malyananda?",
+        "input":"",
       "output": "The author believes Sri Gandha thrives better in their region because the soil conditions are ideal, with lower temperatures and higher moisture, resulting in less secondary metabolism and more vegetative growth compared to Malyananda, where the soil is hot and dry."
     },
     {
       "instruction": "What is the author's opinion on the relationship between the size of the Sri Gandha plant and its quality for use in Kataavya?",
+        "input":"",
       "output": "The author believes there is no direct correlation between the size of the Sri Gandha plant and its quality for use in Kataavya, suggesting that even smaller plants can produce high-quality material."
     },
     {
       "instruction": "What is the key factor that the author believes causes Sri Gandha to develop secondary metabolism?",
+        "input":"",
       "output": "The author believes that environmental stress, particularly drought and high temperatures, triggers secondary metabolism in Sri Gandha, leading to the formation of artwood and oil accumulation."
     },
     {
       "instruction": "What is the author's opinion on the current state of Sri Gandha cultivation in their region?",
+        "input":"",
       "output": "The author believes that their region is neglecting its potential for Sri Gandha cultivation, emphasizing the importance of utilizing the available land and resources for this valuable crop."
     },
     {
       "instruction": "What specific action is the author suggesting to address the issue of Sri Gandha cultivation in their region?",
+        "input":"",
       "output": "The author suggests that they need to start properly managing Sri Gandha cultivation to optimize the yield and quality of the product, implying a need for better agricultural practices and awareness."
     },
     {
       "instruction": "What is the author's perspective on the government's role in Sri Gandha cultivation?",
+        "input":"",
       "output": "The author believes the government's policies, specifically through NMPB (National Medicinal Plant Development Board), are beneficial for Sri Gandha cultivation, but there are still challenges that need to be addressed."
     },
     {
       "instruction": "According to the author, what is the main reason for the difference in Sri Gandha quality between their region and Malayalee?",
+        "input":"",
       "output": "The author believes that the difference in Sri Gandha quality between their region and Malayalee is due to the varying levels of secondary metabolism, which is influenced by the environmental conditions and the amount of vegetative growth."
     },
     {
       "instruction": "What is the author's concern about the future of Sri Gandha cultivation in their region?",
+        "input":"",
       "output": "The author expresses concern that over-harvesting and lack of proper management could lead to the depletion of Sri Gandha resources in their region, emphasizing the need for sustainable practices."
     },
     {
       "instruction": "What is the author's view on the amount of time it takes for Sri Gandha to mature in their region compared to Malayalee?",
+      "input":"",
       "output": "The author believes Sri Gandha takes significantly less time to mature in their region compared to Malayalee, possibly due to the favorable environmental conditions and the resulting increased vegetative growth."
     },
     {
       "instruction": "What makes Sri Gandhada's tree unique compared to other trees?",
-     
+      "input":"",
+
       "output": "Sri Gandhada is a hemi-root parasite, meaning it grows on the Parvava tree, unlike a typical tree that grows independently."
     },
     {
       "instruction": "What is the special characteristic of Sri Gandhada's hardwood?",
+      "input":"",
       "output": "Sri Gandhada's hardwood is known for its fine grains and develops a special color over time."
     },
     {
       "instruction": "How is Sri Gandhada's oil produced and what is its purpose?",
+        "input":"",
       "output": "The hardwood develops from the 10th to the 7th year, and Sri Gandhada oil is prepared and deposited within it. It has medicinal properties and is considered good for health."
     },
     {
       "instruction": "Where are Sasi Gullu grown and what is their purpose?",
+      "input":"",
       "output": "Sasi Gullu are grown in nurseries and Sasi Palanala throughout the kingdom. They are used for forest farming."
     },
     {
       "instruction": "What is the projected increase in the number of Sasi Gullu grown for the next year?",
+        "input":"",
       "output": "The number of Sasi Gullu grown this year was 6 lakhs, and the projected number for next year is over 20 lakhs."
     },
     {
       "instruction": "What is the best type of soil for growing Sri Gandhada?",
+      "input":"",
       "output": "Lomi soils, which are well-drained soils, are considered the best for Sri Gandhada, although it can grow in various types of soil, including sand and black cotton soil."
     },
     {
       "instruction": "What is the importance of host plants in the growth of Sri Gandhada?",
+        "input":"",
       "output": "Host plants are crucial for the successful growth of Sri Gandhada.  Examples of suitable host plants include Honuguna sapu, Casuarina, Gali Gida, and Dalimba."
     },
     {
       "instruction": "What were the regulations regarding the ownership of Srikanta trees?",
+        "input":"",
       "output": "Srikanta trees were considered state property, regardless of where they grew. However, once mature, they were to be transferred to government depots. Currently, the ownership rests with the landowner."
     },
     {
       "instruction": "According to the speaker, what is the best way to plant Srikanta trees for optimal growth?",
+        "input":"",
       "output": "Planting Srikanta trees in a single base, particularly in areas with good moisture and sunlight, is recommended.  Avoid planting them in hollow beds."
     },
     {
       "instruction": "How long does it take for Sri Gandhada to develop its valuable hardwood and how does its growth progress over time?",
+        "input":"",
       "output": "It takes 7 to 10 years for Sri Gandhada to develop its hardwood. The amount of hardwood produced increases over time, reaching a peak at around 15 years, after which the growth rate may decline slightly.  However, even after 20 years, the tree continues to produce more hardwood."
     },
     {
       "instruction": "What is the name of the tree being discussed in this paragraph and how long does it typically take for the tree to produce its first roots?",
+        "input":"",
       "output": "The tree being discussed is sandalwood. It typically takes 8-9 years for the tree to develop its first roots."
     },
     {
       "instruction": "What is the name of the machine used to check the health of the sandalwood tree's roots and how does it work?",
+        "input":"",
       "output": "The machine used to check the roots is called Electrode domo. It works by sending a small electrical current through the soil, and the machine can measure the resistance to determine if the roots are healthy or damaged."
     },
     {
       "instruction": "What are some of the factors that can affect the development of the sandalwood tree's roots according to the paragraph?",
+        "input":"",
       "output": "Factors that can affect root development include soil quality, water availability, and stress caused by factors like limited soil space or nutrient deficiency."
     },
     {
       "instruction": "How does the paragraph suggest determining the spacing between sandalwood trees when planting them?",
+      "input":"",
       "output": "The paragraph suggests that the spacing between trees should be determined based on the soil report and the location of the plantation. For example, in areas with coconut farms, a 5-10 foot spacing may be appropriate, while in other areas like Chikmagalur, a closer spacing may be needed."
     },
     {
       "instruction": "What is the significance of the soil report in the context of planting sandalwood trees?",
+        "input":"",
       "output": "The soil report helps determine the appropriate spacing between trees and provides information about soil quality, which can influence the success of the sandalwood plantation."
     },
     {
       "instruction": "What viral video brought the speaker's attention to the guest, and what was the subject of the video?",
+        "input":"",
       "output": "The speaker saw a viral video of the guest giving a lecture to a Sandalwood expert. The video discussed cultivating sandalwood."
     },
     {
       "instruction": "What is the guest's nickname and how did she become known by this name?",
+        "input":"",
       "output": "The guest is known as the 'Sandalwood lady of Karnataka' due to her expertise and involvement in sandalwood cultivation."
     },
     {
       "instruction": "How did the speaker learn about the guest's work in the 'Financial Freedom App'?",
+        "input":"",
       "output": "The speaker's team informed them that Suresh sir had done a course with the guest for the 'Financial Freedom App'."
     },
     {
       "instruction": "What major life decision did the guest make regarding her career path, and what was her motivation for this decision?",
+      "input":"",
       "output": "The guest decided to pursue a career in farming despite having the opportunity to work as an engineer. She wanted to work as a farmer and contribute to agriculture."
     },
     {
       "instruction": "The guest mentions that she works long hours. What is her typical workday schedule?",
+      "input":"",
       "output": "The guest works from 5 am to 10 pm, starting with work from 6 am to 7 am and continuing throughout the day."
     },
     {
       "instruction": "The guest provides advice to women who are balancing work and family responsibilities. What is her main message to them?",
+      "input":"",
       "output": "She encourages women to be proactive and take initiative in their work, emphasizing that being lazy will lead to feeling like a slave to life."
     },
     {
       "instruction": "What was the guest's initial experience like when she first entered the agricultural field, and how did she overcome these challenges?",
+        "input":"",
       "output": "The guest initially found it difficult to adapt to the harsh conditions and high temperatures. However, she persevered and started working on the paddy fields despite the initial discomfort."
     },
     {
       "instruction": "Describe the state of the paddy fields when the guest first started working on them.",
+        "input":"",
       "output": "The paddy fields were not fertile when the guest started working on them, indicating that they were in need of improvement and had not yielded any crops previously."
     },
     {
       "instruction": "What is the name of the YouTube channel featuring Ajay, the young farmer, and what is the main topic of the video?",
+      "input":"",
       "output": "The YouTube channel is called 'Freedom Farming Kannada' and the video focuses on introducing Ajay, a young farmer who has started a business using the Freedom app to grow his farmland."
     },
     {
       "instruction": "Where is Ajay from and what is his motivation for becoming a farmer?",
+      "input":"",
       "output": "Ajay is from Yadagiri and he has a strong desire to start his own farming journey and become a farmer."
     },
     {
       "instruction": "What is Ajay's educational background and how does it relate to his farming aspirations?",
+      "input":"",
       "output": "Ajay has completed his ITI and has knowledge of business, but he has a desire to pursue farming, indicating a shift in his career path."
     },
     {
       "instruction": "How much land does Ajay own and where are his different plots located?",
+      "input":"",
       "output": "Ajay owns 18 acres of land, with 1 acre in Batta near Neera and the rest located in Onapaisa."
     },
     {
       "instruction": "What farming courses has Ajay taken and which crops does he mention specifically?",
+      "input":"",
       "output": "Ajay has taken courses on Dragon fruit, paper plate, Sri Gandhath, and Dalimbe. He mentions specifically Dragon fruit and Sri Gandhath."
     },
     {
       "instruction": "Why does Ajay feel that his land is not suitable for traditional farming and what are his plans for it?",
+      "input":"",
       "output": "Ajay believes his land is not suitable for traditional farming because it's not fertile and requires extensive work. He plans to grow crops like Dragon fruit that require less land and water, but have good market value."
     },
     {
       "instruction": "What is the name of the farm shown in the paragraph?",
+      "input":"",
       "output": "The farm is called the BMM Organic Farm."
     },
     {
       "instruction": "What type of tree is planted at the BMM Organic Farm and how many acres of land does it cover?",
+      "input":"",
       "output": "The BMM Organic Farm has planted sandalwood trees on one acre of land."
     },
     {
       "instruction": "What is a special characteristic of sandalwood trees that is mentioned in the paragraph?",
+      "input":"",
       "output": "Sandalwood trees cannot survive on their own and require a host plant to grow well."
     },
     {
       "instruction": "How many varieties of sandalwood are there in the world, and what are some examples mentioned in the paragraph?",
+      "input":"",
       "output": "There are 15 varieties of sandalwood in the world. The paragraph mentions Australian sandalwood and Indian sandalwood."
     },
     {
       "instruction": "What is the estimated profit from growing sandalwood trees for 10 years with natural farming methods?",
+      "input":"",
       "output": "The paragraph estimates a profit of at least 3 crore rupees from growing sandalwood trees for 10 years with natural farming methods."
     },
     {
       "instruction": "According to the paragraph, what is the importance of providing nutrition to sandalwood trees in the initial years?",
+      "input":"",
       "output": "Providing nutrition in the first 1-2 years is important to prevent fungus and ensure the tree's healthy growth."
     },
     {
       "instruction": "What are some examples of host plants that can be used to support the growth of sandalwood trees?",
+      "input":"",
       "output": "The paragraph mentions pomegranate, guava, papaya, and any other nutrient-rich plant as potential host plants for sandalwood trees."
     },
     {
       "instruction": "What is the importance of sunlight in the growth of sandalwood trees?",
+      "input":"",
       "output": "Sunlight is essential for sandalwood trees, and the host plant should not overshadow the sandalwood tree to ensure optimal growth."
     },
     {
       "instruction": "What is the current market size for Sri Ganda, and how has it changed over the past 10 years?",
+      "input":"",
       "output": "The current market for Sri Ganda is estimated to be between 16,000 and 16,000 acres. It has grown significantly over the past 10 years, from around 2,000 to 2,000 acres."
     },
     {
       "instruction": "What is the key characteristic of Sri Ganda's soil?",
+      "input":"",
       "output": "Sri Ganda's soil is described as 'Civet' but the specific meaning of this term is not clear from the context."
     },
     {
       "instruction": "What is the significance of a Sri Ganda seed being more than 3 years old?",
+      "input":"",
       "output": "A Sri Ganda seed that is older than 3 years will be bought back by the producers."
     },
     {
       "instruction": "How much money was used to make Sri Ganda sushis, and where did this money come from?",
+      "input":"",
       "output": "The producers used 10 rupees to make Sri Ganda sushis, which they received as a subsidy from the government of Karnataka."
     },
     {
       "instruction": "What are some of the diseases that affect Sri Ganda plants, and how are they addressed?",
+      "input":"",
       "output": "Sri Ganda plants are susceptible to diseases like COSIDA and cylinder diseases. The producers manage these diseases by taking care of the plants, especially during periods of high rainfall and subsequent dryness."
     },
     {
       "instruction": "What is the water requirement for Sri Ganda plants, and how is it provided?",
+      "input":"",
       "output": "Sri Ganda plants require a moderate amount of water, and it is generally dripped onto the plants. This is because the plants are said to die within 3 years if they receive excessive water."
     },
     {
       "instruction": "Why is it important to cut the rake of a Sri Ganda plant half an inch away?",
+      "input":"",
       "output": "Cutting the rake of a Sri Ganda plant half an inch away is recommended because it helps in gently harvesting the Ganda gida and allows the plant to develop properly. It is not detrimental to the plant."
     },
     {
       "instruction": "What is the future production plan for Sri Ganda, and how does it relate to the seed buying policy?",
+      "input":"",
       "output": "The producers plan to continue producing different products from Sri Ganda and will buy back seeds that are older than 3 years. However, the buy-back policy is primarily for training purposes, and they may continue to produce and protect the plants in the future."
     },
     {
       "instruction": "Why are the producers concerned about Sri Ganda's growth in the forest?",
+      "input":"",
       "output": "The producers are concerned about Sri Ganda growing naturally in the forest because it prevents them from gaining a profit, as they are not able to collect and utilize the plants effectively in the forest environment."
     },
     {
       "instruction": "What is the name of the person who is advocating for the cultivation of Sri Gandha?",
+      "input":"",
       "output": "The person advocating for the cultivation of Sri Gandha is Ramesh Baluti."
     },
     {
       "instruction": "What is the name of the sandalwood tree in English?",
+      "input":"",
       "output": "The name of the sandalwood tree in English is Sandalwood."
     },
     {
       "instruction": "What are the three scientific names for Sandalwood mentioned in the paragraph?",
+      "input":"",
       "output": "The three scientific names for Sandalwood mentioned in the paragraph are Santalam Albam, Santalam Spicatum, and Santalam Asi."
     },
     {
       "instruction": "What is the legal status of Sri Gandha cultivation in Karnataka, India?",
+      "input":"",
       "output": "The legal status of Sri Gandha cultivation in Karnataka, India has changed, with a new law passed in 2001-2002 allowing private citizens to cultivate Sri Gandha on their land without needing permission from the government."
     },
     {
       "instruction": "What is the scientific name for Sandalwood?",
+      "input":"",
       "output": "The scientific name for Sandalwood is Santalum Album."
     },
     {
       "instruction": "What is the current retail price of 1 kg of Sri Gandha in Karnataka?",
+      "input":"",
       "output": "The current retail price of 1 kg of Sri Gandha in Karnataka is 5 lakhs."
     },
     {
       "instruction": "What is the estimated economic yield of Sri Gandha per acre?",
+      "input":"",
       "output": "The estimated economic yield of Sri Gandha per acre is 300 Sri Gandha trees, which can produce 3 tons of sandalwood and artwood over 15 to 20 years."
     },
     {
@@ -3009,5 +3304,3 @@
       "output": "If it is 100 kg, it is 2000 kg."
     }
   ]
-
-  
