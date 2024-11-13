@@ -80,7 +80,11 @@ app.post("/chat", async (req, res) => {
     });
 
     // Mock AI Assistant API call for response
-    const aiResponse = await axios.post("https://cd8c-35-197-1-120.ngrok-free.app/generate", { input:message });
+    const aiResponse = await axios.post("https://e39e-35-197-1-120.ngrok-free.app/generate", { input:message });
+
+
+    console.log(aiResponse);
+
 
     // Store AI assistant's response in the database with type 'ASSISTANT'
     const assistantMessage = await prisma.chatMessage.create({
