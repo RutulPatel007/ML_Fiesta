@@ -24,8 +24,8 @@ This project is submitted for a hackathon, and we've fine-tuned it for both func
 #### **Step-by-Step Guide**
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/vanni-x.git
-   cd vanni-x
+   git clone https://github.com/RutulPatel007/VANNI-X.git
+   cd VANNI-X
    ```
 
 2. **Start the Express Server**  
