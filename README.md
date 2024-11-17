@@ -103,8 +103,6 @@ streamlit run chat.py
 
 ---
 
-### 📩 Contact
-For queries or collaborations, email us at **your-email@example.com**.
 
 ### 🙌 Acknowledgments
 Special thanks to:
@@ -112,7 +110,6 @@ Special thanks to:
 - **Hugging Face** for model fine-tuning resources.
 - The open-source community for datasets and inspiration.
 
-### 📜 License
-This project is licensed under the **MIT License**.
 
-Good luck with the hackathon! 🌟
+
+🌟
