@@ -21,11 +21,11 @@ This project is submitted for a hackathon, and we've fine-tuned it for both func
 - Install Python (3.8+ recommended)
 
 #### **Step-by-Step Guide**
-1. **Clone the Repository**  
+1. **Clone the Repository and Install necessary dependencies**  
    ```bash
    git clone https://github.com/RutulPatel007/VANNI-X.git
    cd VANNI-X
-   pip install -r requirements.txt ## Install necessary dependencies
+   pip install -r requirements.txt
    ```
 
 2. **Start the Express Server**  
