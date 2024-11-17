@@ -110,6 +110,3 @@ Special thanks to:
 - **Hugging Face** for model fine-tuning resources.
 - The open-source community for datasets and inspiration.
 
-
-
-🌟
