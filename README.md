@@ -1,68 +1,118 @@
 # 🌟 Vanni X: Kannada Audio to Intelligent Q&A System 🚀
 
 ### 🔍 Overview
-**Vanni X** revolutionizes language-based AI by transforming Kannada audio datasets into an intelligent Q&A system. Using cutting-edge AI technologies, **Vanni X** bridges the gap between audio context and actionable insights, enabling users to interact seamlessly with audio-derived knowledge.
+**Vanni X** is an advanced AI system designed to transform Kannada audio into an intelligent Q&A experience. By leveraging state-of-the-art AI technologies, it bridges the gap between audio data and actionable insights, enabling seamless user interaction with audio-derived knowledge. 
+
+This project is submitted for a hackathon, and we've fine-tuned it for both functionality and ease of deployment.
 
 ---
 
 ### 🛠️ Features
-- 🎙️ **Audio-to-Text Conversion**: Harnesses the power of **Whisper AI** to transcribe Kannada audio into accurate English text.
-- 🤖 **Fine-Tuned LLaMA Model**: Enriched with a custom Q&A dataset using **LoRA** and **QLoRA** techniques for highly contextual answers.
+- 🎙️ **Audio-to-Text Conversion**: Powered by **Whisper AI**, enabling highly accurate transcription of Kannada audio into English text.
+- 🤖 **Fine-Tuned LLaMA Model**: Enhanced with custom Q&A datasets using **LoRA** and **QLoRA** for precise, context-aware responses.
 - 💻 **Interactive Streamlit App**: 
-  - **Input**: Accepts questions in text or audio format.
-  - **Output**: Provides responses in both **text** and **audio** formats for a dynamic user experience.
+  - **Input**: Accepts queries in text or audio format.
+  - **Output**: Delivers responses in both **text** and **audio** formats for a comprehensive user experience.
 
 ---
 
-### 🔧 How It Works
-1. **Audio Dataset Processing**: Kannada audio is preprocessed and transcribed into English using **Whisper AI**.
-2. **Model Fine-Tuning**: The **LLaMA** model is fine-tuned with a curated Q&A dataset using **LoRA** and **QLoRA**, ensuring precision and context-awareness.
-3. **User Interaction**: The **Streamlit app** enables users to:
-   - Ask questions based on the dataset's context.
-   - Receive concise, accurate answers in both text and audio.
+### 🔧 How to Run the Project
+#### **Pre-requisites**
+- Install Python (3.8+ recommended)
+- Install necessary dependencies: `pip install -r requirements.txt`
 
----
+#### **Step-by-Step Guide**
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/your-username/vanni-x.git
+   cd vanni-x
+   ```
 
-### 🚀 Getting Started
-#### 1. Clone the Repository
+2. **Start the Express Server**  
+   Navigate to the `server` folder and start the backend:  
+   ```bash
+   cd server
+   npm install
+   node index.js
+   ```
+
+3. **Run the Fine-Tuned Model**  
+   Navigate to the `model` folder and execute the Jupyter notebook to load the fine-tuned LLaMA model:  
+   ```bash
+   cd model
+   jupyter notebook
+   ```  
+   Open `lora_finetuned_model.ipynb` and run all cells to host the model. Update the **model's API URL** in the Express server (`server/index.js`).
+
+4. **Launch the Streamlit Web App**  
+   Navigate to the `web_app` folder and start the Streamlit app:  
+   ```bash
+   cd ../web_app
+   streamlit run chat.py
+   ```
+
+#### **Commands Summary**
 ```bash
+# Clone repository
 git clone https://github.com/your-username/vanni-x.git
-cd vanni-x
-pip install -r requirements.txt
-streamlit run app.py'
+
+# Start Express server
+cd vanni-x/server
+npm install
+node index.js
+
+# Run the model
+cd ../model
+jupyter notebook
+
+# Start Streamlit web app
+cd ../web_app
+streamlit run chat.py
 ```
-#### 2. Interact with Vanni X
-- Upload audio files in Kannada or use existing datasets.
-- Ask questions in text or audio.
-- Get answers delivered in text and audio formats.
+
+---
 
 ### 📚 Technology Stack
 - **Whisper AI**: For Kannada-to-English audio transcription.
-- **LLaMA Model**: Fine-tuned with LoRA and QLoRA for domain-specific Q&A.
-- **Streamlit**: For building an interactive and user-friendly interface.
-- **Python**: Backend processing and data management.
+- **LLaMA**: Fine-tuned with **LoRA** and **QLoRA** for domain-specific Q&A.
+- **Express.js**: Backend server for routing and API integration.
+- **Flask**: Hosting the fine-tuned LLaMA model.
+- **Streamlit**: For building a dynamic, user-friendly web interface.
+- **PyTorch**: Powering model training and inference.
 
-### 🎯 Use Cases
-- **Language Learning**: Enhance English proficiency using Kannada as a base language.
-- **Customer Support**: Automate question answering for Kannada-speaking users.
-- **Education**: Create interactive study aids based on Kannada lectures or discussions.
+---
+
+### 🚀 Use Cases
+- **Language Learning**: Enhance English comprehension for Kannada speakers.
+- **Customer Support**: Automate queries for Kannada-speaking users.
+- **Education**: Enable interactive study aids using Kannada audio content.
+
+---
 
 ### 👥 Team
-- Rutul and [Team Members’ Names Here]
-- **Roles**: AI Development, Model Fine-Tuning, Streamlit App Development
+- Rutul Patel
+- Aryaman Pathak
+- Shreyas Biradar
 
-### 🌟 Why Vanni X?
-- **Inclusive**: Breaks language barriers between Kannada and English.
-- **Interactive**: Engages users with dynamic Q&A capabilities.
-- **State-of-the-Art**: Built with cutting-edge AI technologies.
+---
+
+### 🌟 Why Choose Vanni X?
+- **Inclusive**: Empowers Kannada-speaking communities.
+- **Interactive**: Provides real-time Q&A with multi-format outputs.
+- **State-of-the-Art**: Combines advanced AI techniques for superior performance.
+
+---
 
 ### 📩 Contact
-For questions or collaborations, reach out to us at your-email@example.com.
+For queries or collaborations, email us at **your-email@example.com**.
 
 ### 🙌 Acknowledgments
-We thank:
-- OpenAI for Whisper AI.
-- The community for open-source datasets and support.
+Special thanks to:
+- **OpenAI** for Whisper AI.
+- **Hugging Face** for model fine-tuning resources.
+- The open-source community for datasets and inspiration.
 
 ### 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
+
+Good luck with the hackathon! 🌟
