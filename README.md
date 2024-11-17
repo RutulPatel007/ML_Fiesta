@@ -55,14 +55,16 @@ This project is submitted for a hackathon, and we've fine-tuned it for both func
 ```bash
 # Clone repository
 git clone https://github.com/RutulPatel007/VANNI-X.git
+cd VANNI-X
+pip install -r requirements.txt
 
 # Start Express server
-cd vanni-x/server
+cd server
 npm install
 node index.js
 
 # Run the model
-cd ../model
+cd model
 jupyter notebook
 
 # Start Streamlit web app
