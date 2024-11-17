@@ -19,13 +19,13 @@ This project is submitted for a hackathon, and we've fine-tuned it for both func
 ### 🔧 How to Run the Project
 #### **Pre-requisites**
 - Install Python (3.8+ recommended)
-- Install necessary dependencies: `pip install -r requirements.txt`
 
 #### **Step-by-Step Guide**
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/RutulPatel007/VANNI-X.git
    cd VANNI-X
+   pip install -r requirements.txt ## Install necessary dependencies
    ```
 
 2. **Start the Express Server**  
