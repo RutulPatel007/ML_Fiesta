@@ -54,7 +54,7 @@ This project is submitted for a hackathon, and we've fine-tuned it for both func
 #### **Commands Summary**
 ```bash
 # Clone repository
-git clone https://github.com/your-username/vanni-x.git
+git clone https://github.com/RutulPatel007/VANNI-X.git
 
 # Start Express server
 cd vanni-x/server
